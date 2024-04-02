@@ -1,0 +1,3 @@
+{
+  "connectionstring": "Server = localhost;DataBase = EMS; User = sa; Password = Docker@123; TrustServerCertificate = True; Encrypt = false; MultipleActiveResultSets = true"
+}
